@@ -1,0 +1,17 @@
+for i in range(10):
+    print(i, end=" ")
+    
+print() #換行for i in range(20, 2, -2):
+    print(i, end=" ")
+    
+    for i in "Hey Jude":
+    if i == "u":
+        break
+    print(i)
+    
+    for i in "Hey Jude":
+    if i == "u":
+        continue
+    print(i)
+    
+    
