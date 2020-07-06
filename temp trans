@@ -1,0 +1,8 @@
+val = input("輸入溫度(e.g.: 32C or 89.6F):")
+if val[-1] in ['C',"c"]:
+            f=1.8*float(cal[0:-1] + 32
+                        print("轉換後為:%.2fF"%f")
+elif val[-1] in ["F","f"]:
+                        c = float(val[0:-1])-32)/1.8
+                        print("轉換後為:%.2fC"%c)
+    
